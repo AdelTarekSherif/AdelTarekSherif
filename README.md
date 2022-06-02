@@ -9,8 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adel-tarek-5a219423a?
-         lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3byecpeyd1qzkvra2cggpwcq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adel-tarek-5a219423a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3byecpeyd1qzkvra2cggpwcq%3d%3d" height="30" width="40" /></a>         
+<a href="https://linkedin.com/in/adel-tarek-5a219423a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3byecpeyd1qzkvra2cggpwcq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adel-tarek-5a219423a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3byecpeyd1qzkvra2cggpwcq%3d%3d" height="30" width="40" /></a>         
 <a href="https://fb.com/adeltarek111" target="blank"><img align="centeradeltarek111" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adeltarek111" height="30" width="40" /></a>
 <a href="https://instagram.com/adel_tarek_sherif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adel_tarek_sherif" height="30" width="40" /></a>
 </p>
